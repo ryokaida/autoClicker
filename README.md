@@ -15,7 +15,7 @@ Small autoclicker written in Python.
 # Instrucitons for Running the File
 1. After cloning the repo, navigate to the location where you stored the **autoclicker.py file** in your terminal/Command Prompt/PowerShell
 2. Use the command `python autoclicker.py`
-  - You may need to allow the computer to use Remote Control (this ocurred for me on Linux)
+    - You may need to allow the computer to use Remote Control (this ocurred for me on Linux)
 
 # Sources
 - Keyboard and mouse automation in Python: https://www.geeksforgeeks.org/python/mouse-keyboard-automation-using-python/
