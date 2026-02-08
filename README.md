@@ -12,7 +12,7 @@ Small autoclicker written in Python.
 - The autoclicker is set to go until the specified date (set in strDateBoundary).
 - The autoclicker is set to click on a certain minute (e.g.: the fifth minute).  This can be customized to whatever minute you want (set in strMinuteToClickOn).
 
-# Instrucitons for Running the File
+# Instructions for Running the File
 1. After cloning the repo, navigate to the location where you stored the **autoclicker.py file** in your terminal/Command Prompt/PowerShell
 2. Use the command `python autoclicker.py`
     - You may need to allow the computer to use Remote Control (this ocurred for me on Linux)
