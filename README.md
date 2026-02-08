@@ -5,7 +5,7 @@ Small autoclicker written in Python.
 - Python must be installed on your machine
 - pip must be installed on your machine
 - pyautogui must be installed on your machine
-  - If it is not you may need to install it using pip: `pip install pyautogui'
+  - If it is not you may need to install it using pip: `pip install pyautogui`
 
 # Instructions for Editing the File
 - The autoclicker is set to change the location of the click based on the OS (the specific location needs to be customized to your monitor).
