@@ -36,15 +36,15 @@ def getDateTime():
 print(pyautogui.size())
 
 # set the date that the autoclicker will end on
-strDateBoundary = "02/07/2026"
+strDateBoundary = "02/14/2026"
 # set the minute that the autoclicker will click on
 strMinuteToClickOn = "5"
 
 # set x and y positions based on os
 if (os.name == "nt"):
     print("using windows: " + os.name)
-    intX = 760
-    intY = 180
+    intX = 1000
+    intY = 80
 else:
     print("using linux: " + os.name)
     intX = 760
